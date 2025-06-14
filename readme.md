@@ -22,3 +22,11 @@ Permet de pousser des modifications en ligne
 
 ## git log
 Permet de lister les modifications en local
+
+## git branch
+Permet de creer une branche ou répertoire
+
+## git checkout
+- permet de passer d'une branche à une autre
+- Permet de se deplacer d'une branche à une autre
+-  Avec l'option : -b, checkout creé la branche si elle n'existe pas
