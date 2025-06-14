@@ -16,8 +16,8 @@ le message est important
 Permet de pousser des modifications en ligne
 
 ## git status
-Permet de lister les modifications à traiter 
-permet de verifier le statut du repertoire
+-Permet de lister les modifications à traiter 
+-permet de verifier le statut du repertoire
 
 ## git log
 Permet de lister les modifications en local
