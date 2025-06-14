@@ -35,3 +35,8 @@ Permet de creer une branche ou répertoire
 
 ## git pull
 - Permet de recuperer mes modifications distants c'est à dire les modifications effectuées en ligne pour le local
+
+## git rebase
+- Permet de récuperer les modifications de la branche parent
+- Les modifications de la branche mere sont placés en dessous des modifications de la branche courante
+- Les modifications de la branche courantes sont placés au dessus des modifications de la branche mère
