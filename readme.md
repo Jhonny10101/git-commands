@@ -48,3 +48,6 @@ Permet de récuperer les données de l'enfant vers le parent
 - Permet de supprimer un commit
 - Permet de revenir à un commit précis defini par son identifiant
 - Attention à utiliser avec précaution
+
+## git diff 
+- comparer deux commits
