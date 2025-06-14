@@ -40,3 +40,11 @@ Permet de creer une branche ou répertoire
 - Permet de récuperer les modifications de la branche parent
 - Les modifications de la branche mere sont placés en dessous des modifications de la branche courante
 - Les modifications de la branche courantes sont placés au dessus des modifications de la branche mère
+
+## git merge 
+Permet de récuperer les données de l'enfant vers le parent
+
+## git reset 
+- Permet de supprimer un commit
+- Permet de revenir à un commit précis defini par son identifiant
+- Attention à utiliser avec précaution
