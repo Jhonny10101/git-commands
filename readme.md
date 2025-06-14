@@ -31,3 +31,7 @@ Permet de creer une branche ou répertoire
 - permet de passer d'une branche à une autre
 - Permet de se deplacer d'une branche à une autre
 -  Avec l'option : -b, checkout creé la branche si elle n'existe pas
+
+
+## git pull
+- Permet de recuperer mes modifications distants c'est à dire les modifications effectuées en ligne pour le local
